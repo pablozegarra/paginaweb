@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+  <head>Pagina web pablo
+  </head> 
+  <body>
+    <div align="center">
+        <h1>Inteligencia artificial</h1>
+      <p>La inteligencia artifial es el campo científico que se centra en la creación de programas y mecanismos que puedan mostrar comportamientos considerados inteligentes.En otras palabras, la IA es el concepto según el cual las maquinas piensan como sere humanos.</p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/ZgKAII5UIxg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></br><br></br>
+       <table style="width:80%">
+       <table border="3px>"
+          <tr>
+            <th>Factores importantes para su desarrollo</th>
+            <th>Ideas principales</th>
+          </tr>
+          <tr>
+            <td align="center">1-El Bigdata</td>
+            <td align="center">1-Percepción Los ordenadnores percoben el mundo utilizando sensores</td>
+          </tr>
+          <tr>
+            <td align="center">2-Entorno tecnológico en el que se ejecutan los sistemas de IA</td>
+            <td align="center">2- Representación y razonamiento Los agentes mantienen modelos o representaciones del mundo y las usan para razonar.</td>
+          </tr>
+          <tr>
+            <td align="center">3-Avances en los propios algoritmos de IA</td>
+            <td align="center">3- Aprendizaje Los ordenadores pueden aprender a partir de datos</td>
+          </tr>
+       <table>  
+      </div>
+  </body>
+ <html>  

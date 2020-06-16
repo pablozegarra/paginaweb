@@ -1,0 +1,31 @@
+<head>Pagina web pablo
+  </head> 
+  <body>
+    <div align="center">
+        <h1>Factores que han influido en el desarrolo de la Inteligencia Artificial</h1>
+      <br></br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/tCpf5wDr0UE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <br></br>
+<ul style="width:10%">
+  <li>Big Data</li>
+  <li>Entorno tecnológico</li>
+  <li>Avance en algoritmos</li>
+</ul>
+<br></br>
+<table style="width:80%">
+       <table border="3px>"
+          <tr>
+            <th>Big data</th>
+            <th>Entorno tecnológico</th>
+            <th>Avance en algoritmos</th>
+          </tr>
+          <tr>
+            <td align="center"> Como las personas usamos de forma masiva servicios digitales en internet que almacenan todos los datos de nuestras interacciones, y como se están desarrollando procesos de digitalización del mundo físico, actualmente se dispone de grandes cantidades de datos que permiten entrenar a los sistemas de IA.</td>
+            <td align="center">en el que se ejecutan los sistemas de IA, con procesadores muy potentes y sistemas de almacenamiento de información a gran escala a un coste realmente asequible.</td>
+            <td> como el desarrollo de arquitecturas de redes neuronales profundas.</td>
+          </tr>
+          <tr>
+            <td align="center"><img src="https://cdn.semrush.com/blog/static/media/46/2d/462deb22dedc21b676812ce19f640800/que-es-el-big-data.png" width=30%></td>
+            <td align="center"><img src="https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2015/10/16/14450132376715.jpg" width=55%</td>
+          <td align="center"><img src="https://www.bbva.com/wp-content/uploads/2015/08/inteligencia-artificial-e1472143324733.jpg" width=90%
+          </tr>
